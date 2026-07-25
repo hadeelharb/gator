@@ -30,5 +30,8 @@ Before setting up Gator, ensure you have the following installed on your local m
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/YOUR_GITHUB_USERNAME/gator.git](https://github.com/YOUR_GITHUB_USERNAME/gator.git)
+git clone https://github.com/hadeelharb/gator.git
 cd gator
+## 📄 License
+
+MIT License
